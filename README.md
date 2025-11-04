@@ -102,7 +102,9 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HordRicJr&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HordRicJr&show_icons=true&theme=radical)
 
+## HactoberFest
 
+[![An image of @hordricjr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hordricjr)](https://holopin.io/@hordricjr)
 
 
 ## Appointment Booking
