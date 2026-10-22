@@ -1,13 +1,13 @@
 # Hello, my name is ASSOUN Akomagni Kodjovi Rodrigue!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm;+ASSOUN+Akomagni+Kodjovi+Rodrigue+;I'm+a+passionate+developer,;Software+Engineering+Student.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm;+ASSOUN+Akomagni+Kodjovi+Rodrigue+;I'm+a+,;Software+Engineering.)
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
 
 
 
-I am a software engineering student at École Polytechnique de Lomé. Passionate about technology and innovation, I aim to become an expert in mobile development, database management, and AI creation.
+I am a software engineering . Passionate about technology and innovation, Founder & CEO.
 
 ## Skills
 - **Programming Languages:**  JavaScript, C, Java, Flutter, Python
@@ -64,13 +64,6 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-## 🏆 Contributor ranking position in Togo
-<p>
-    <a href="https://user-badge.committers.top/togo/HordRicJr">
-      <img src="https://user-badge.committers.top/togo/HordRicJr.svg" style="width: 600px; height: 60px;">
-    </a>
 </p>
 
 ## Profil view
