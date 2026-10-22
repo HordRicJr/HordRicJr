@@ -1,6 +1,6 @@
 # Hello, my name is ASSOUN Akomagni Kodjovi Rodrigue!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm;+ASSOUN+Akomagni+Kodjovi+Rodrigue+;I'm+a+,;Software+Engineering.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm;+ASSOUN+Akomagni+Kodjovi+Rodrigue+;I'm+a+;Software+Engineer.)
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
@@ -10,9 +10,7 @@
 I am a software engineering . Passionate about technology and innovation, Founder & CEO.
 
 ## Skills
-- **Programming Languages:**  JavaScript, C, Java, Flutter, Python
-
-- **Web Technologies:** HTML, CSS, PHP
+- **Programming Languages:** nextjs, react, C, Java, Flutter, Python
 
 - **Tools and Platforms:** Git, GitHub
 
@@ -26,10 +24,6 @@ I am a software engineering . Passionate about technology and innovation, Founde
 
 ### Programming and Markup Languages
 
-<p>
-  <a href="https://github.com/search?q=user%3HordRicJr+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHordRicJr+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHordRicJr+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AHordRicJr+language%3Ajquery"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230E76A8.svg?logo=jquery&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AHordRicJr+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AHordRicJr+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -42,7 +36,10 @@ I am a software engineering . Passionate about technology and innovation, Founde
 
 <p>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+  <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=Nextjs&logoColor=white"></a>
+  <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%23FF2D20.svg?logo=SpringBoot&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23FF2D20.svg?logo=React&logoColor=blue"></a>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23FF2D20.svg?logo=FastAPI&logoColor=blue"></a>
 </p>
 
 ### Databases, Cloud & Hosting
@@ -52,12 +49,12 @@ I am a software engineering . Passionate about technology and innovation, Founde
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%23000000.svg?logo=Azure&logoColor=blue"></a>
 </p>
 
 ### Software and Tools
 
 <p>
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
